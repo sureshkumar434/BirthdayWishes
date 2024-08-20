@@ -1,2 +1,2 @@
-# BirthdayWishes
-Birthday wishes
+# BirthdayReminder
+Birthday Reminder
